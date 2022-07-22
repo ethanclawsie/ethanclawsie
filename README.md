@@ -2,7 +2,7 @@
 I’m currently working on Youtube Rater Extension<br>How to reach me ethanclawsie@gmail.com
 
 
-## 🌐 Socials:
+## Socials:
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17960913) 
 
 # Tech Stack:
