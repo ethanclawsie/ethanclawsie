@@ -9,7 +9,7 @@ I’m currently working on a Youtube Rater Extension<br>Reach me at ethanclawsie
  
 # GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ethanclawsie&theme=github_darkk&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ethanclawsiea&theme=github_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ethanclawsie&theme=github_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
 
 
