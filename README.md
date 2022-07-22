@@ -1,2 +1,2 @@
 Computer Science Student
-![](https://komarev.com/ghpvc/?username=ethanclawsie&color=green&style=flat-square)
+![](https://komarev.com/ghpvc/?username=ethanclawsie&color=red&style=flat-square)
