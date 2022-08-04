@@ -1,5 +1,5 @@
 # About Me:
-I’m currently working on a Youtube Rater Extension<br>Reach me at ethanclawsie@gmail.com
+I’m currently working on YouRater<br>Reach me at ethanclawsie@gmail.com
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ethanclawsie) 
