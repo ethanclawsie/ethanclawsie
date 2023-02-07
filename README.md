@@ -5,6 +5,6 @@ Reach me at ethanclawsie@gmail.com
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ethanclawsie) 
  
 # GitHub Stats
-[![Top Langs](https://github-readmestats-knp792urd-ethanclawsie.vercel.app/api/top-langs/?username=ethanclawsie&theme=github_dark&hide_border=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://readmestats-ethanclawsie.vercel.app/api/top-langs/?username=ethanclawsie&theme=github_dark&hide_border=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
