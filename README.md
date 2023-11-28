@@ -30,7 +30,7 @@ Reach me at ethanclawsie@gmail.com
 # Frameworks
 
 <p align="center">
-  <img src="icons/download.svg" alt="Express" width="40" height="40">
+  <img src="icons/express.svg" alt="Express" width="40" height="40">
   <img src="icons/flask.svg" alt="Flask" width="40" height="40">
   <img src="icons/flutter.svg" alt="Flutter" width="40" height="40">
   <img src="icons/node.svg" alt="Node" width="40" height="40">
