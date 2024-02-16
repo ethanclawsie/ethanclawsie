@@ -38,6 +38,6 @@ Reach me at ethanclawsie@gmail.com
   <img src="icons/tensorflow.svg" alt="Tensorflow" width="40" height="40">
 </p>
 
-# Socials
+# Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ethanclawsie)
