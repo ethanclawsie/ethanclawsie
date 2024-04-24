@@ -16,6 +16,7 @@ Reach me at ethanclawsie@gmail.com
 # Tools
 
 <p align="center">
+  <img src="icons/aws.svg" alt="AWS (Lambda, EC2, S3)" width="40" height="40">
   <img src="icons/chrome.svg" alt="Chrome Extension Development" width="40" height="40">
   <img src="icons/digitalocean.svg" alt="Digital Ocean" width="40" height="40">
   <img src="icons/git.svg" alt="Git" width="40" height="40">
