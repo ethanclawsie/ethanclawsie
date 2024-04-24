@@ -1,6 +1,6 @@
 # About Me
 
-I'm a 19-year-old student Computer Science major currently studying at Santa Clara University. I'm interested in back-end development, machine learning, and compilers.
+I'm a 20-year-old student Computer Science major currently studying at Santa Clara University. I'm interested in back-end development, machine learning, system design, and compilers.
 
 Reach me at ethanclawsie@gmail.com
 
