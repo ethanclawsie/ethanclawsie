@@ -8,11 +8,7 @@ Reach me at ethanclawsie@gmail.com
 
 <p align="center">
   <img src="icons/cpp.svg" alt="C++" width="40" height="40">
-  <img src="icons/css.svg" alt="CSS" width="40" height="40">
-  <img src="icons/dart.svg" alt="Dart" width="40" height="40">
   <img src="icons/go.svg" alt="Go" width="40" height="40">
-  <img src="icons/html.svg" alt="HTML" width="40" height="40">
-  <img src="icons/java.svg" alt="Java" width="40" height="40">
   <img src="icons/javascript.svg" alt="Javascript" width="40" height="40">
   <img src="icons/python.svg" alt="Python" width="40" height="40">
 </p>
@@ -33,7 +29,6 @@ Reach me at ethanclawsie@gmail.com
 <p align="center">
   <img src="icons/download.svg" alt="Express" width="40" height="40">
   <img src="icons/download-2.svg" alt="Flask" width="40" height="40">
-  <img src="icons/flutter.svg" alt="Flutter" width="40" height="40">
   <img src="icons/node.svg" alt="Node" width="40" height="40">
   <img src="icons/tensorflow.svg" alt="Tensorflow" width="40" height="40">
 </p>
