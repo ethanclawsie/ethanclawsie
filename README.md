@@ -8,7 +8,6 @@ Reach me at ethanclawsie@gmail.com
 
 <p align="center">
   <img src="icons/cpp.svg" alt="C++" width="40" height="40">
-  <img src="icons/go.svg" alt="Go" width="40" height="40">
   <img src="icons/javascript.svg" alt="Javascript" width="40" height="40">
   <img src="icons/python.svg" alt="Python" width="40" height="40">
 </p>
