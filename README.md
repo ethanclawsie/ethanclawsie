@@ -1,6 +1,6 @@
 # About Me
 
-I'm a sophomore Computer Science major currently studying at Santa Clara University. I'm interested in back-end development, machine learning, system design, and compilers.
+I'm a sophomore Computer Science major currently studying at Santa Clara University. I'm interested in performance optimization, machine learning, compilers, and system design.
 
 Reach me at ethanclawsie@gmail.com
 
