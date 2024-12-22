@@ -8,7 +8,6 @@ Reach me at ethanclawsie@gmail.com
 
 <p align="center">
   <img src="icons/cpp.svg" alt="C++" width="40" height="40">
-  <img src ="icons/go.svg" alt="Go" width="40" height="40">
   <img src="icons/javascript.svg" alt="Javascript" width="40" height="40">
   <img src="icons/python.svg" alt="Python" width="40" height="40">
 </p>
@@ -23,16 +22,13 @@ Reach me at ethanclawsie@gmail.com
   <img src="icons/linux.svg" alt="Linux" width="40" height="40">
   <img src="icons/postgres.svg" alt="PostgreSQL" width="40" height="40">
   <img src="icons/sqlite.svg" alt="Sqlite" width="40" height="40">
-  <img src="icons/chrome.svg" alt="Chrome Extension Development" width="40" height="40">
 </p>
 
 # Frameworks
 
 <p align="center">
-  <img src="icons/download.svg" alt="Express" width="40" height="40">
   <img src="icons/download-2.svg" alt="Flask" width="40" height="40">
-  <img src="icons/node.svg" alt="Node" width="40" height="40">
-  <img src="icons/tensorflow.svg" alt="Tensorflow" width="40" height="40">
+  <img src="icons/chrome.svg" alt="Chrome Extension Development" width="40" height="40">
 </p>
 
 # Connect
